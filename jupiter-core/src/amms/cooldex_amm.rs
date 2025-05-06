@@ -10,8 +10,8 @@ use spl_token::state::Account as TokenAccount;
 
 mod cooldex_constants {
     use super::*;
-    pub const COOLDEX_PROGRAM_ID: Pubkey = pubkey!("DjVE6JNiYqPL2QXyCUUh8rNjHrbz9hXHNYt99MQ59qw1");
-    pub const ADMIN_FEE_ACCOUNT: Pubkey = pubkey!("CLYVUjoRVwbTKDxCzvL5ghLXFr2TeBhMbLt7v7LxTa5w");
+    pub const COOLDEX_PROGRAM_ID: Pubkey = pubkey!("HAXJWG2uMp4Fegh5ZmKF4QbDc5WaJ4LnL1dePcooLDEX");
+    pub const ADMIN_FEE_ACCOUNT: Pubkey = pubkey!("ETjXM6Yh8iXKeCEsrrqrnLRKivzajc1uThZM6Ua8RKqQ");
 }
 
 const COOLPAD_BURN_RATE_DENOMINATOR: u64 = 10000;
